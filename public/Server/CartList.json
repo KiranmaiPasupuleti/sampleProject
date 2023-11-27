@@ -1,0 +1,26 @@
+{
+    "cartList" : [
+        {
+            "id": 111,
+            "product_name": "Raymond Wooden Sofa - Teak Finish",
+            "product_image": "https://m.media-amazon.com/images/I/51dKbFb93SL._SX522_.jpg",
+            "product_cost": 9000,
+            "product_desc": "This sofa’s frame is made from seasoned solid wood that undergoes a 3-step treatment for protection against borers and is kiln-dried for moisture control.",
+            "product_stock": 400,
+            "product_dimension": "75.0 cm x 175.0 cm x 71.0 cm",
+            "product_material": "cotton Material",
+            "category_id": {
+              "$oid": "61cc47cde286b5a96c185545"
+            },
+            "color_id": {
+              "$oid": "61cc489be286b5a96c18554b"
+            },
+            "subimages": [
+              "https://m.media-amazon.com/images/I/413NgWDes7L._SL1000_.jpg",
+              "https://m.media-amazon.com/images/I/41scXaROEmL._SL1000_.jpg",
+              "https://m.media-amazon.com/images/I/51M5CLs7AEL._SL1000_.jpg"
+            ],
+            "product_rating": 3.3
+          }
+    ]
+}

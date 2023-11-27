@@ -1,0 +1,20 @@
+{
+  "addressList": [
+    {
+      "street": "street1",
+      "city": "HYD",
+      "productLocation": "PUNE",
+      "code": 5222220,
+      "country": "India",
+      "id": 1
+    },
+    {
+      "street": "Narasaraopet",
+      "city": "Narasaraopet, guntur district",
+      "productLocation": "hyd",
+      "code": "867554567",
+      "country": "India",
+      "id": 2
+    }
+  ]
+}

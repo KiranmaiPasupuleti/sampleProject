@@ -1,0 +1,37 @@
+
+
+/* react bootstrap styling */
+a.navbar-brand{
+    color: antiquewhite;
+
+}
+.navbar{
+    --bs-navbar-color:white !important;
+}
+
+.nav-link.active{
+    color: rgb(156, 234, 156) !important;
+    border: 1px solid rgb(156, 234, 156);
+}
+
+a#collapsible-nav-dropdown.dropdown-toogle.show.nav-link ::after{
+    color: rgb(156, 234, 156) !important;
+    border: 1px solid rgb(156, 234, 156);
+}
+.navbar-toggler{
+    background-color: white !important;
+}
+a:hover {
+    /* --bs-link-color-rgb: var(--bs-link-hover-color-rgb); */
+    color: rgb(156, 234, 156) !important;
+}
+
+.nav-link :focus{
+    transition: none !important;
+    color: rgb(156, 234, 156) !important;
+
+}
+.dropdown-styling{
+    text-decoration: none;
+    color: black;
+}
